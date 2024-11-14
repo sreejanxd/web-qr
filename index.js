@@ -14,7 +14,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WAOW YOU CHOOSE SREEJAN XD 』*
+║ *『 THANKS FOR CHOOSE SREEJAN XD 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
